@@ -64,5 +64,104 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Blockchain.com is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://forgeglobal.com/blockchain-7_stock/
+Blockchain.com provides a digital asset infrastructure platform offering a crypto wallet, explorer, market data, and developer APIs. It serves consumers, institutions, and developers with services such as wallet management, on‑chain data, price feeds, and crypto‑backed loans, positioning itself as a comprehensive crypto super‑app.
+
+**Areas:** Company · Cryptocurrency · Wallets · Data
+
+## Blockchain.com on APIs.io
+
+Everything profiled for Blockchain.com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/blockchain-7/](https://apis.io/providers/blockchain-7/)** — or go straight to one of the APIs or properties below.
+
+### APIs (6)
+
+- [Explorer API](https://apis.io/apis/blockchain-7/explorer-api/) — Provides blockchain explorer data such as asset prices, charts, and network statistics.
+- [Blockchain.com Bitcoin API](https://apis.io/apis/blockchain-7/blockchain-7-bitcoin-api/) — BTC blockchain endpoints
+- [Blockchain.com Bitcoin Cash API](https://apis.io/apis/blockchain-7/blockchain-7-bitcoin-cash-api/) — BCH blockchain endpoints
+- [Blockchain.com Charts API](https://apis.io/apis/blockchain-7/blockchain-7-charts-api/) — Bitcoin network statistics and charts
+- [Blockchain.com Ethereum API](https://apis.io/apis/blockchain-7/blockchain-7-ethereum-api/) — ETH blockchain endpoints
+- [Blockchain.com Solana API](https://apis.io/apis/blockchain-7/blockchain-7-solana-api/) — SOL blockchain endpoints
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Blockchain 7 Authentication](https://apis.io/security/blockchain-7/blockchain-7-authentication/)
+- [Blockchain 7 Domain Security](https://apis.io/security/blockchain-7/blockchain-7-domain-security/)
+- [Blockchain 7 Trust Center](https://apis.io/security/blockchain-7/blockchain-7-trust-center/)
+- [Blockchain 7 Vulnerability Disclosure](https://apis.io/security/blockchain-7/blockchain-7-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.blockchain.com)
+- [Documentation](https://docs.blockchain.com/)
+- [API reference](https://www.blockchain.com/api)
+- [Pricing](https://www.blockchain.com/prices)
+- [Support](https://support.blockchain.com)
+- [Blog](https://www.blockchain.com/blog)
+- [Security](https://www.blockchain.com/security)
+- [Compliance](https://www.blockchain.com/security)
+- [Terms of service](https://www.blockchain.com/terms)
+- [Privacy policy](https://www.blockchain.com/legal/privacy)
+- [GitHub](https://github.com/blockchain)
+- [Status](https://status.blockchain.com/)
+
+## API Evangelist rating
+
+**Kin Score 42.4** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 52.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 35.7 |
+| Access clarity | 60.5 |
+
+**Agent readiness 30.6** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 27.7** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/blockchain-7/](https://apis.io/providers/blockchain-7/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Blockchain.com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/blockchain-7/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
